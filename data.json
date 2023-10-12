@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "personas": [
+        {
+            "nombre": "Juan",
+            "edad": 25,
+            "pais": "Colombia"
+        },
+        {
+            "nombre": "Pedro",
+            "edad": 30,
+            "pais": "Perú"
+        },{
+            "nombre": "JungKook",
+            "edad": 26,
+            "pais": "Corea del Sur"
+        }
+    ],
+
+    "animales":[
+            {
+                "nombre": "Firulais",
+                "edad": 5,
+                "raza": "Pastor Aleman"
+            },
+            {
+                "nombre": "Kuromi",
+                "edad": 2,
+                "raza": "Criollo"
+            },
+            {
+                "nombre": "Luna",
+                "edad": 4,
+                "raza": "Labrador"
+            }
+    ]
+}
